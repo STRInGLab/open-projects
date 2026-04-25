@@ -176,3 +176,16 @@ https://shine.stringlab.org/career/primary-maths-tutor-in-person/
 ## Issue 21
 
 **Menu bar: Update Add to Cart icon with a clearer icon**
+
+## Issue 22
+
+**(Mobile View) The course hyperlink is not working in the Calendar View**
+
+<img width="235.5" height="512" alt="image" src="https://github.com/user-attachments/assets/eca29bfc-fdb9-444f-a94b-cc158131ae7e" />
+
+## Issue 23
+
+**Edit Job is not allowing scrolling and appears stuck**
+
+<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/a94eced9-46a6-4c1c-aec6-57cbc89a33cb" />
+
