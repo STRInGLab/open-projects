@@ -1,16 +1,26 @@
 # Bug Tracker - The Shine Academy
 
-## Issue 1
+## Open Issues/Bugs/Improvements
+
+#### Issue 11: All Courses > Search Bar: Not working
+
+#### Issue 20: Careers detail page: Incorrect spelling
+
+#### Issue 22: (Mobile View) The course hyperlink is not working in the Calendar View
+
+#### Issue 23: Edit Job is not allowing scrolling and appears stuck
+
+## ~Issue 1~
 
 **The "Add to Cart" and "Profile" icons are not aligned vertically center in the navbar.**
 
 <img width="2592" height="276" alt="image" src="https://github.com/user-attachments/assets/94bc096b-45e7-4e68-bd68-5bb101aa9f7c" />
 
-## Issue 2
+## ~Issue 2~
 
 **Homepage > View and Manage your bookings: Change the color of the button text to black**
 
-## Issue 3
+## ~Issue 3~
 
 **Homepage > FAQs: Link not working**
 
@@ -23,7 +33,7 @@ None of the FAQs links is working.
 
 <img width="1513" height="865" alt="image" src="https://github.com/user-attachments/assets/08c0ea2f-c6ef-4925-af84-9b302195d948" />
 
-## Issue 4
+## ~Issue 4~
 
 **Modal > Enquire Now: Remove extra whitespaces**
 
@@ -40,7 +50,7 @@ Required Design:
 
 <img width="1496" height="1084" alt="image" src="https://github.com/user-attachments/assets/667e0cb4-228c-478b-8687-985dc1a2d5e1" />
 
-## Issue 5
+## ~Issue 5~
 
 **Footer hyperlink: Additional active hyperlink**
 
@@ -48,21 +58,21 @@ When I am on the FAQs page, the Career hyperlink in the footer is also active.
 
 <img width="3020" height="1728" alt="image" src="https://github.com/user-attachments/assets/fcde62c2-ad62-47c7-9ad7-d0bb8ba5cdf5" />
 
-## Issue 6
+## ~Issue 6~
 
-**Incorrect redirection of Careers link in the footer. It takes to FAQs.**
+**Incorrect redirection of the Careers link in the footer. It takes to FAQs.**
 
-## Issue 7
+## ~Issue 7~
 
-**Footer hyperlink: When on Careers page, careers hyperlink is not active in footer**
+**Footer hyperlink: When on the Careers page, the careers hyperlink is not active in the footer**
 
-## Issue 8
+## ~Issue 8~
 
-**CTA alignment: Both text and Enquire Now button in the CTA should be vertically aligned center**
+**CTA alignment: Both the text and the Enquire Now button in the CTA should be vertically aligned centre**
 
 <img width="3020" height="1384" alt="image" src="https://github.com/user-attachments/assets/2627bcfc-adfd-4d57-8948-5cc61841a133" />
 
-## Issue 9
+## ~Issue 9~
 
 **Update hyperlink for archived Holiday Courses**
 
@@ -71,7 +81,7 @@ Update the hyperlink below to navigate to the "All Courses" page instead of the 
 * Homepage > Explore Our Exciting New Programs Today > Holiday Courses > Learn More
 * Homepage > Our Offerings > Holiday Courses
 
-## Issue 10
+## ~Issue 10~
 
 **Year tags not showing in All Courses Grid view**
 
@@ -85,7 +95,7 @@ Search Term: "CAT"
 
 <img width="3022" height="1726" alt="image" src="https://github.com/user-attachments/assets/4f82ad65-36a5-4535-937a-6ddc50052bab" />
 
-## Issue 12
+## ~Issue 12~
 
 **All Courses > Filter: Holiday Filter not showing in Active Filters**
 
@@ -93,7 +103,7 @@ Here, I have selected "May Half Term" in Holiday Courses. It is not showing up i
 
 <img width="3022" height="1722" alt="image" src="https://github.com/user-attachments/assets/f7d834d0-1195-4cbf-9fc8-9f2080964aa3" />
 
-## Issue 13
+## ~Issue 13~
 
 **Course details page: Add year, holiday and miscellaneous tags**
 
@@ -104,13 +114,13 @@ In the course details page, we can only see the Primary/Secondary tag. We also n
 
 <img width="3022" height="1732" alt="image" src="https://github.com/user-attachments/assets/961e085a-2de3-4964-897f-e1ee323d6853" />
 
-## Issue 14
+## ~Issue 14~
 
 **(Mobile View) Fix Cart icon: Cart icon is squeezed in mobile view**
 
 <img width="184" height="400" alt="image" src="https://github.com/user-attachments/assets/43ff698c-45b8-4f5d-823c-773acf6ad45b" />
 
-## Issue 15
+## ~Issue 15~
 
 **(Mobile View) Alignment and Overlapping Issue of Menubar**
 
@@ -118,7 +128,7 @@ On mobile view, the dropdown menu is misaligned and overlaps with the header sec
 
 <img width="184" height="400" alt="image" src="https://github.com/user-attachments/assets/b72d6498-cac5-4df0-aa06-e735700b2f9e" />
 
-## Issue 16
+## ~Issue 16~
 
 **(Mobile View) Table of Contents overlapping with the text content**
 
@@ -139,7 +149,7 @@ The following three pages have overlapping issues in mobile view:
 
 <img width="184" height="400" alt="image" src="https://github.com/user-attachments/assets/09568420-c06b-4366-a213-72378e64d37c" />
 
-## Issue 17
+## ~Issue 17~
 
 **Contact Us > Submit Button: Validation missing**
 
@@ -149,7 +159,7 @@ The Submit Button on the Contact Us page has two issues:
 
 <img width="184" height="400" alt="image" src="https://github.com/user-attachments/assets/ddeff767-1f38-4213-8ad0-a4bd186c2990" />
 
-## Issue 18
+## ~Issue 18~
 
 **(Mobile View) Enquiry Form Padding**
 
@@ -157,7 +167,7 @@ The X-Y padding of the Enquiry Form on the Contact Us page requires a fix.
 
 <img width="184" height="400" alt="image" src="https://github.com/user-attachments/assets/5042e430-7233-4727-890f-35d5f6809eb3" />
 
-## Issue 19
+## ~Issue 19~
 
 **(Mobile View) Push the nav bar in mobile view to the top with no margin**
 
@@ -173,9 +183,9 @@ This should be renamed to -
 
 https://shine.stringlab.org/career/primary-maths-tutor-in-person/
 
-## Issue 21
+## ~Issue 21~
 
-**Menu bar: Update Add to Cart icon with a clearer icon**
+**Menu bar: Update the Add to Cart icon with a clearer icon**
 
 ## Issue 22
 
